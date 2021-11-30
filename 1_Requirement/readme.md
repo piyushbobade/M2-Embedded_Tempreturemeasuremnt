@@ -12,12 +12,12 @@ Modular Approach.
 Folder Structure
 
 Folder	Description
+
 1_Requirements	Documents detailing requirements and research
----	---
 2_Design	Documents specifying design details
 3_Implementation	All code and documentation
 4_TestplanAnd Output	Documents with test plans and procedures
-SWOT- Strengths, and Weakness, Opportunities Threats
+S_WOT- Strengths, and Weakness, Opportunities Threats
 
 Strengths
 
@@ -25,6 +25,7 @@ User Friendly
 Easy to alter the temperature inside the bus.
 Modular Approach
 Low cost and Robust system.
+
 Weakness
 
 Its only applicable for those countries which are having low temperature.
@@ -34,6 +35,7 @@ It can be implemented by having both Heater and AC.
 Threats
 
 Not suitable for average or high temperature places.
+
 4W's and 1'H
 Who:
 
