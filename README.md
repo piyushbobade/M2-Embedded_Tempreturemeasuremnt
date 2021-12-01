@@ -15,3 +15,4 @@ Passenger has the access to modify the speed of a fan in the bus.
 Low cost and robust system.
 
 Modular Approach.
+[![cppcheck-action-test](https://github.com/piyushbobade/M2-Embedded_Tempreturemeasuremnt/actions/workflows/cpp.yml/badge.svg)](https://github.com/piyushbobade/M2-Embedded_Tempreturemeasuremnt/actions/workflows/cpp.yml)
