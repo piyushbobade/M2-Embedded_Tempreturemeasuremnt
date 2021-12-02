@@ -17,3 +17,5 @@ Low cost and robust system.
 Modular Approach.
 [![cppcheck-action-test](https://github.com/piyushbobade/M2-Embedded_Tempreturemeasuremnt/actions/workflows/cpp.yml/badge.svg)](https://github.com/piyushbobade/M2-Embedded_Tempreturemeasuremnt/actions/workflows/cpp.yml)
 [![cppcheck-action-test](https://github.com/piyushbobade/M2-Embedded_Tempreturemeasuremnt/actions/workflows/cpp.yml/badge.svg)](https://github.com/piyushbobade/M2-Embedded_Tempreturemeasuremnt/actions/workflows/cpp.yml)
+Code Inspector-![](https://api.codiga.io/project/29841/score/svg)
+![](https://api.codiga.io/project/29841/status/svg)
